@@ -1,7 +1,22 @@
 - 👋 Hi, I’m @CryptoGuy1
-- 👀 I’m interested in blockchain dev
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on blockchain projects
+- 👀 Solidity Developer from Portharcourt, Rivers State Nigeria.
+- 
+TECHNOLOGIES I WORK WITH
+-JavaScript
+-TypeScript
+-Vue.js
+-Node.js/express.js
+-Nestjs
+-Etherjs
+-Solidity
+-Python
+
+WHAT I'M CURRENTLY...
+-Currently working with ALTHASH UNIVERSITY
+-Currrently a blockchain Ranking Engineer with ICORBP
+-I'm looking to collaborate with you
+-Currently learning Rust
+-I'm looking to help with anything solidity related!
 - 📫 How to reach me on benblockdev@gmail.com
 
 <!---
