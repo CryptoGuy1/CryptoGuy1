@@ -30,6 +30,11 @@ Benjamin works as a Solidity Developer for Althash University, where he will be 
 - [Solidity Developer @ iDapp]
 - [Blockchain ranking Engineer @ICORBP]
 
+### currently learning:
+
+-Rust
+-Golang
+
 
 #### Volunteer Experience
 
