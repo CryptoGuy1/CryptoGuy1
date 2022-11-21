@@ -9,6 +9,9 @@ Benjamin works as a Solidity Developer for Althash University, where he will be 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/benjamin-c-nweke/
 
+## Trophies
+
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=CryptoGuy1&theme=gruvbox">
 
 #### Technologies and Tools
 
@@ -44,8 +47,13 @@ Benjamin works as a Solidity Developer for Althash University, where he will be 
 
 - [Co-organizer, All University Tech Community]
 
+* Streak stats
 
+<img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=CryptoGuy1&theme=dark">
 
+* Most Used Language
+
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoGuy1&langs_count=5&theme=tokyonight">
 <!--
 **CryptoGuy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
